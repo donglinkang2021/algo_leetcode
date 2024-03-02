@@ -11,7 +11,7 @@
 
 | Title | Solution | Difficulty |
 |-------|----------|------------|
-|[189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)|[./189.rotate-array.md](./189.rotate-array.md) |Middle|
+|[189. 轮转数组](https://leetcode.cn/problems/rotate-array/)|[./189.rotate-array.md](./189.rotate-array.md) |Middle|
 
 ## refer
 
