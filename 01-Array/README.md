@@ -4,7 +4,7 @@
 
 | Title | Solution | Difficulty |
 |-------|----------|------------|
-|[283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)|[./283.move-zeroes.md](./283.move-zeroes.md) |Easy|
+|[283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)|[./283.moveZeroes.md](./283.moveZeroes.md) |Easy|
 |[665. 非递减数列](https://leetcode.cn/problems/non-decreasing-array/)|[./665.non-decreasing-array.md](./665.non-decreasing-array.md) |Middle|
 
 ## 数组的旋转
@@ -12,6 +12,7 @@
 | Title | Solution | Difficulty |
 |-------|----------|------------|
 |[189. 轮转数组](https://leetcode.cn/problems/rotate-array/)|[./189.rotate-array.md](./189.rotate-array.md) |Middle|
+|[396. 旋转函数](https://leetcode-cn.com/problems/rotate-function/)|[./396.rotate-function.md](./396.rotate-function.md) |Middle|
 
 ## refer
 
