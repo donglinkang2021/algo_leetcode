@@ -14,6 +14,12 @@
 |[189. 轮转数组](https://leetcode.cn/problems/rotate-array/)|[./189.rotate-array.md](./189.rotate-array.md) |Middle|
 |[396. 旋转函数](https://leetcode-cn.com/problems/rotate-function/)|[./396.rotate-function.md](./396.rotate-function.md) |Middle|
 
+## 统计数组中的元素
+
+| Title | Solution | Difficulty |
+|-------|----------|------------|
+| [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[./645.set-mismatch.md](./645.set-mismatch.md) |Easy|
+
 ## refer
 
 - [4.1  数组 - Hello 算法 (hello-algo.com)](https://www.hello-algo.com/chapter_array_and_linkedlist/array/#5)
