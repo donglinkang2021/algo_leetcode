@@ -19,6 +19,7 @@
 | Title | Solution | Difficulty |
 |-------|----------|------------|
 | [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[./645.set-mismatch.md](./645.set-mismatch.md) |Easy|
+| [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[./697.degree-of-an-array.md](./697.degree-of-an-array.md) |Easy|
 
 ## refer
 
