@@ -21,6 +21,7 @@
 | [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[./645.set-mismatch.md](./645.set-mismatch.md) |Easy|
 | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[./697.degree-of-an-array.md](./697.degree-of-an-array.md) |Easy|
 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[./448.find-all-numbers-disappeared-in-an-array.md](./448.find-all-numbers-disappeared-in-an-array.md) |Easy|
+| [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|[./442.find-all-duplicates-in-an-array.md](./442.find-all-duplicates-in-an-array.md) |Easy|
 
 ## refer
 
