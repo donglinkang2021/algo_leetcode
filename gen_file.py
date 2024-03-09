@@ -1,5 +1,5 @@
 chapter = "01-Array"
-title = "442.find-all-duplicates-in-an-array"
+title = "41.first-missing-positive"
 file_md = f"{chapter}/{title}.md"
 file_cpp = f"{chapter}/{title}.cpp"
 with open(file_md, "w") as f:
