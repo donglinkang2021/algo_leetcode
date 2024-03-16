@@ -24,6 +24,13 @@
 | [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|[./442.find-all-duplicates-in-an-array.md](./442.find-all-duplicates-in-an-array.md) |Easy|
 | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[./41.first-missing-positive.md](./41.first-missing-positive.md) |Hard|
 
+## 数组的遍历
+
+| Title | Solution | Difficulty |
+|-------|----------|------------|
+| [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)|[./485.max-consecutive-ones.md](./485.max-consecutive-ones.md) |Easy|
+| [495. 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/)|[./495.teemo-attacking.md](./495.teemo-attacking.md) |Middle|
+
 ## refer
 
 - [4.1  数组 - Hello 算法 (hello-algo.com)](https://www.hello-algo.com/chapter_array_and_linkedlist/array/#5)
