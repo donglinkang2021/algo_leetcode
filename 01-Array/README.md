@@ -31,6 +31,7 @@
 | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)|[./485.max-consecutive-ones.md](./485.max-consecutive-ones.md) |Easy|
 | [495. 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/)|[./495.teemo-attacking.md](./495.teemo-attacking.md) |Middle|
 | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/)|[./414.third-maximum-number.md](./414.third-maximum-number.md) |Easy|
+| [628. 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[./628.maximum-product-of-three-numbers.md](./628.maximum-product-of-three-numbers.md) |Easy|
 
 ## refer
 
