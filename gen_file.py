@@ -1,5 +1,5 @@
 chapter = "01-Array"
-title = "628.maximum-product-of-three-numbers"
+title = "118.pascals-triangle"
 file_md = f"{chapter}/{title}.md"
 file_cpp = f"{chapter}/{title}.cpp"
 with open(file_md, "w") as f:
