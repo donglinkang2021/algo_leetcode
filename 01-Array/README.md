@@ -33,6 +33,7 @@
 | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/)|[./414.third-maximum-number.md](./414.third-maximum-number.md) |Easy|
 | [628. 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[./628.maximum-product-of-three-numbers.md](./628.maximum-product-of-three-numbers.md) |Easy|
 | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)|[./118.pascals-triangle.md](./118.pascals-triangle.md) |Easy|
+| [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[./119.pascals-triangle-ii.md](./119.pascals-triangle-ii.md) |Easy|
 
 ## refer
 
