@@ -1,6 +1,7 @@
 # 01 数组(Array)
 
 - 数组的改变、移动
+  - [ ] [453. 最小移动次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/)
   - [x] [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
   - [x] [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)
 - 数组的旋转
@@ -20,3 +21,19 @@
 - 二维数组及滚动数组
   - [x] [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
   - [x] [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
+  - [x] [661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/) 
+  - [ ] [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)
+  - [ ] [419. 甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/)
+- 特定顺序遍历二维数组
+  - [ ] [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+  - [ ] [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)
+  - [ ] [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)
+- 二维数组变换
+  - [ ] [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)
+  - [ ] [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)
+  - [ ] [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)
+  - [ ] [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/)
+- 前缀和数组
+  - [ ] [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)
+  - [ ] [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
+  - [ ] [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)

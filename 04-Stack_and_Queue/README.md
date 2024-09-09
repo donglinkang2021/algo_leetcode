@@ -1,1 +1,46 @@
 # 04 栈与队列(Stack and Queue)
+
+- 栈的实现
+  - [ ] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+  - [ ] [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
+  - [ ] [面试题 03.01. 三合一](https://leetcode-cn.com/problems/three-in-one-lcci/)
+  - [ ] [1441. 用栈操作构建数组](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)
+- 单调栈
+  - [ ] [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
+  - [ ] [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
+  - [ ] [9. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+  - [ ] [901. 股票价格跨度](https://leetcode-cn.com/problems/online-stock-span/)
+  - [ ] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+- 最小/大栈
+  - [ ] [面试题 03.02. 栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci/)
+  - [ ] [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)
+  - [ ] [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
+  - [ ] [716. 最大栈](https://leetcode-cn.com/problems/max-stack/)
+- 字符串去重问题
+  - [ ] [316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters)
+  - [ ] [1209. 删除字符串中的所有相邻重复项 II](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+  - [ ] [1081.不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters)
+- 栈与括号匹配
+  - [ ] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+  - [ ] [636. 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions/)
+  - [ ] [591. 标签验证器](https://leetcode-cn.com/problems/tag-validator/)
+  - [ ] [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
+- 表达式求值
+  - [ ] [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+  - [ ] [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)
+  - [ ] [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
+  - [ ] [772. 基本计算器 III](https://leetcode-cn.com/problems/basic-calculator-iii/)
+  - [ ] [770. 基本计算器 IV](https://leetcode-cn.com/problems/basic-calculator-iv/)
+- 用栈访问最后若干元素
+  - [ ] [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+  - [ ] [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
+  - [ ] [388. 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/)
+- 递归
+  - [ ] [385. 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/)
+  - [ ] [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
+  - [ ] [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
+- 滑动窗口最大值问题
+  - [ ] [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+- 求前 K 个高频元素
+  - [ ] [347. 前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+  - [ ] [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)

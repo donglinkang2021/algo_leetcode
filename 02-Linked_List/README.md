@@ -1,1 +1,33 @@
 # 02 链表(Linked List)
+
+- 移除与插入链表元素
+  - [ ] [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
+  - [ ] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+  - [ ] [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+  - [ ] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+  - [ ] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+  - [ ] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+- 链表的遍历
+  - [ ] [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)
+  - [ ] [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+- 链表的旋转与反转
+  - [ ] [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
+  - [ ] [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+  - [ ] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+  - [ ] [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+  - [ ] [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+- 链表高精度加法
+  - [ ] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+  - [ ] [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
+  - [ ] [面试题 02.05. 链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)
+- 链表的合并
+  - [ ] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+  - [ ] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+- 链表中的双指针技巧
+  - [ ] [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+  - [ ] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+  - [ ] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+  - [ ] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+  - [ ] [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+  - [ ] [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+  - [ ] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)

@@ -1,1 +1,25 @@
 # 03 哈希表(Hash Table)
+
+- 哈希表的查找、插入及删除
+  - [ ] [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)
+  - [ ] [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
+  - [ ] [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+  - [ ] [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+  - [ ] [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)
+  - [ ] [532. 数组中的 k-diff 数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)
+  - [ ] [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)
+  - [ ] [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+- 哈希表与索引
+  - [ ] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+  - [ ] [599. 两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)
+  - [ ] [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)
+- 哈希表与统计
+  - [ ] [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)
+  - [ ] [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
+  - [ ] [554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)
+  - [ ] [609. 在系统中查找重复文件](https://leetcode-cn.com/problems/find-duplicate-file-in-system/)
+  - [ ] [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
+- 哈希表与前缀和
+  - [ ] [560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+  - [ ] [523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)
+  - [ ] [525. 连续数组](https://leetcode-cn.com/problems/contiguous-array/)
