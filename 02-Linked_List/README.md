@@ -1,9 +1,9 @@
 # 02 链表(Linked List)
 
 - 移除与插入链表元素
-  - [ ] [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
-  - [ ] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
-  - [ ] [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+  - [x] [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
+  - [x] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+  - [x] [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
   - [ ] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
   - [ ] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
   - [ ] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)

@@ -1,6 +1,6 @@
 # README
 
-- [![55%](https://img.shields.io/static/v1?label=01%20%F0%9F%93%9A%20%E6%95%B0%E7%BB%84%20%28Array%29&message=55%&color=yellow)](./01-Array/README.md)
+- [![68%](https://img.shields.io/static/v1?label=01%20%F0%9F%93%9A%20%E6%95%B0%E7%BB%84%20%28Array%29&message=68%&color=blue)](./01-Array/README.md)
 - [![0%](https://img.shields.io/static/v1?label=02%20%F0%9F%94%97%20%E9%93%BE%E8%A1%A8%20%28Linked%20List%29&message=0%&color=red)](./02-Linked_List/README.md)
 - [![0%](https://img.shields.io/static/v1?label=03%20%F0%9F%97%83%EF%B8%8F%20%E5%93%88%E5%B8%8C%E8%A1%A8%20%28Hash%20Table%29&message=0%&color=red)](./03-Hash_Table/README.md)
 - [![0%](https://img.shields.io/static/v1?label=04%20%E2%AC%86%EF%B8%8F%E2%AC%87%EF%B8%8F%20%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%20%28Stack%20and%20Queue%29&message=0%&color=red)](./04-Stack_and_Queue/README.md)

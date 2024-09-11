@@ -15,12 +15,26 @@ for data in data_list:
     data['progress'] = progress
 
 def get_progress_color(progress):
-    if progress < 34:
+    if progress < 10:
         return 'red'
-    elif progress < 67:
+    elif progress < 20:
+        return 'orange'
+    elif progress < 30:
         return 'yellow'
-    else:
+    elif progress < 40:
+        return 'yellowgreen'
+    elif progress < 50:
         return 'green'
+    elif progress < 60:
+        return 'brightgreen'
+    elif progress < 70:
+        return 'blue'
+    elif progress < 80:
+        return 'purple'
+    elif progress < 90:
+        return 'pink'
+    else:
+        return 'blueviolet'
 
 progress_format = 'https://img.shields.io/static/v1?label={}&message={}%&color={}'
 index_content = ''
