@@ -1,0 +1,116 @@
+[
+    {
+        "cn": "数组",
+        "en": "Array",
+        "emoji": "📚",
+        "dir": "01-Array"
+    },
+    {
+        "cn": "链表",
+        "en": "Linked List",
+        "emoji": "🔗",
+        "dir": "02-Linked_List"
+    },
+    {
+        "cn": "哈希表",
+        "en": "Hash Table",
+        "emoji": "🗃️",
+        "dir": "03-Hash_Table"
+    },
+    {
+        "cn": "栈与队列",
+        "en": "Stack and Queue",
+        "emoji": "⬆️⬇️",
+        "dir": "04-Stack_and_Queue"
+    },
+    {
+        "cn": "字符串",
+        "en": "String",
+        "emoji": "🔡",
+        "dir": "05-String"
+    },
+    {
+        "cn": "数与位",
+        "en": "Number and Bit",
+        "emoji": "🔢",
+        "dir": "06-Number_and_Bit"
+    },
+    {
+        "cn": "递归",
+        "en": "Recursion",
+        "emoji": "🔄",
+        "dir": "07-Recursion"
+    },
+    {
+        "cn": "分治",
+        "en": "Divide and Conquer",
+        "emoji": "➗🛡️",
+        "dir": "08-Divide_and_Conquer"
+    },
+    {
+        "cn": "贪心",
+        "en": "Greedy",
+        "emoji": "💡",
+        "dir": "09-Greedy"
+    },
+    {
+        "cn": "排序",
+        "en": "Sorting",
+        "emoji": "🔄🔍",
+        "dir": "10-Sorting"
+    },
+    {
+        "cn": "字符串算法",
+        "en": "String Algorithm",
+        "emoji": "🔡📖",
+        "dir": "11-String_Algorithm"
+    },
+    {
+        "cn": "树与二叉树",
+        "en": "Tree and Binary Tree",
+        "emoji": "🌳",
+        "dir": "12-Tree_and_Binary_Tree"
+    },
+    {
+        "cn": "动态规划",
+        "en": "Dynamic Programming",
+        "emoji": "🔄🔢",
+        "dir": "13-Dynamic_Programming"
+    },
+    {
+        "cn": "图",
+        "en": "Graph",
+        "emoji": "📈",
+        "dir": "14-Graph"
+    },
+    {
+        "cn": "滑动窗口",
+        "en": "Sliding Window",
+        "emoji": "🖼️",
+        "dir": "15-Sliding_Window"
+    },
+    {
+        "cn": "二分查找",
+        "en": "Binary Search",
+        "emoji": "🔍",
+        "dir": "16-Binary_Search"
+    },
+    {
+        "cn": "双指针",
+        "en": "Two Pointers",
+        "emoji": "➡️⬅️",
+        "dir": "17-Two_Pointers"
+    },
+    {
+        "cn": "前缀和",
+        "en": "Prefix Sum",
+        "emoji": "➕🔄",
+        "dir": "18-Prefix_Sum"
+    },
+    {
+        "cn": "位运算",
+        "en": "Bitwise Operation",
+        "emoji": "⚙️",
+        "dir": "19-Bitwise_Operation"
+    }
+]

@@ -1,1 +1,66 @@
 # 12 树与二叉树(Tree and Binary Tree)
+
+- 二叉树的遍历
+  - [ ] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+  - [ ] [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+  - [ ] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+  - [ ] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+  - [ ] [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+- 二叉树的构造与修改
+  - [ ] [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+  - [ ] [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+  - [ ] [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+  - [ ] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+  - [ ] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+- 二叉树的搜索问题
+  - [ ] **用DFS或BFS均可解决的问题：**
+    - [ ] [513. 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)
+    - [ ] [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)
+    - [ ] [623. 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
+  - [ ] **只能用DFS解决的问题：**
+    - [ ] [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
+  - [ ] **需要两次搜索才能解决的问题：**
+    - [ ] [655. 输出二叉树](https://leetcode-cn.com/problems/print-binary-tree/)
+    - [ ] [865. 具有所有最深节点的最小子树](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
+    - [ ] [834. 树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)
+    - [ ] [1339. 分裂二叉树的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/)
+    - [ ] [863. 二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)
+    - [ ] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+    - [ ] [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
+    - [ ] [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
+    - [ ] [513. 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)
+- 二叉树的路径问题
+  - [ ] **自顶向下路径问题：**
+    - [ ] [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
+    - [ ] [面试题04.12.求和路径](https://leetcode-cn.com/problems/paths-with-sum-lcci/)
+    - [ ] [112.路径总和](https://leetcode-cn.com/problems/path-sum/)
+    - [ ] [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
+    - [ ] [988. 从叶结点开始的最小字符串](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/)
+  - [ ] **非自顶向下路径问题：**
+    - [ ] [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+    - [ ] [687. 最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/)
+    - [ ] [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
+- 二叉树属性问题
+  - [ ] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+  - [ ] [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+  - [ ] [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
+  - [ ] [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
+- 二叉树公共祖先问题
+  - [ ] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+  - [ ] [1483. 树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/)
+- 二叉搜索树
+  - [ ] [98.验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+  - [ ] [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
+  - [ ] [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
+  - [ ] [669. 修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)
+  - [ ] [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
+  - [ ] [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+  - [ ] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+  - [ ] [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+  - [ ] [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
+  - [ ] [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)
+  - [ ] [1038. 从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)
+- 平衡二叉树
+  - [ ] [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+  - [ ] [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+  - [ ] [1382. 将二叉搜索树变平衡](https://leetcode-cn.com/problems/balance-a-binary-search-tree)

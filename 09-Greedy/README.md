@@ -1,1 +1,25 @@
 # 09 贪心(Greedy)
+
+- 区间类
+  - [ ] [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
+  - [ ] [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+  - [ ] [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
+  - [ ] [1353. 最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)
+  - [ ] [1520. 最多的不重叠子字符串](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-substrings/)
+  - [ ] [738. 单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/)
+- 峰谷类
+  - [ ] [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  - [ ] [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+  - [ ] [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
+  - [ ] [135. 分发糖果](https://leetcode-cn.com/problems/candy/)
+- 钱币类
+  - [ ] [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+  - [ ] [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)
+  - [ ] [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- 任务类
+  - [ ] [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/)
+  - [ ] [1705. 吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/)
+- 矩形类
+  - [ ] [1630. 等差子数组](https://leetcode-cn.com/problems/arithmetic-subarrays/)
+  - [ ] [870. 优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)
+  - [ ] [1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)

@@ -1,0 +1,28 @@
+# 11 字符串算法(String Algorithm)
+
+- 字符串匹配算法
+  - [ ] **Rabin-Karp 算法：** [28. 找出字符串中第一个匹配项的下标](https://leetcode-cn.com/problems/implement-strstr/)
+  - [ ] **KMP 算法:** [214. 最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/)
+  - [ ] **Boyer-Moore 算法：** [819. 最常见的单词](https://leetcode-cn.com/problems/most-common-word/)
+- 字符串排序算法
+  - [ ] [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+  - [ ] [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
+  - [ ] [179. 最大数](https://leetcode-cn.com/problems/largest-number/)
+  - [ ] [937. 重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)
+- 字符串压缩算法
+  - [ ] **Run-Length 编码**：[443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
+  - [ ] **哈夫曼编码：**[297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+- 字符串搜索算法
+  - [ ] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+  - [ ] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+  - [ ] [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
+- 字符串编辑距离算法
+  - [ ] [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)
+  - [ ] [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+- 正则表达式
+  - [ ] [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
+  - [ ] [65. 有效数字](https://leetcode-cn.com/problems/valid-number/)
+- 暴力算法
+  - [ ] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+  - [ ] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+  - [ ] [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)

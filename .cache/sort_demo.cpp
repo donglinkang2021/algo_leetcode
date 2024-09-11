@@ -31,5 +31,6 @@ int main()
 {
     int a[] = {5, 4, 3, 2, 1};
     quick_sort(a, 0, 4);
+    printf_array(a, 5);
     return 0;
 }

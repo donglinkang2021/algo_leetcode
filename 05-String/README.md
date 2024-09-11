@@ -1,1 +1,68 @@
 # 05 字符串(String)
+
+- 字符
+  - [ ] [520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/)
+- 回文串的定义
+  - [ ] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+- 公共前缀
+  - [ ] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+- 单词
+  - [ ] [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)
+  - [ ] [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
+- 字符串的反转
+  - [ ] [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+  - [ ] [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/)
+  - [ ] [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
+  - [ ] [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+- 字符的统计
+  - [ ] [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+  - [ ] [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
+  - [ ] [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/)
+  - [ ] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+  - [ ] [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
+  - [ ] [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
+  - [ ] [423. 从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/)
+  - [ ] [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
+  - [ ] [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)
+  - [ ] [696. 计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)
+  - [ ] [467. 环绕字符串中唯一的子字符串](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/)
+- 数字与字符串间转换
+  - [ ] [299. 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/)
+  - [ ] [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)
+  - [ ] [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)
+  - [ ] [539. 最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/)
+  - [ ] [553. 最优除法](https://leetcode-cn.com/problems/optimal-division/)
+  - [ ] [537. 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)
+  - [ ] [592. 分数加减运算](https://leetcode-cn.com/problems/fraction-addition-and-subtraction/)
+  - [ ] [640. 求解方程](https://leetcode-cn.com/problems/solve-the-equation/)
+  - [ ] [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)
+  - [ ] [443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
+  - [ ] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+  - [ ] [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
+  - [ ] [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)
+  - [ ] [273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/)
+  - [ ] [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
+  - [ ] [481. 神奇字符串](https://leetcode-cn.com/problems/magical-string/)
+- 子序列
+  - [ ] [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
+  - [ ] [524. 通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)
+  - [ ] [521. 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
+  - [ ] [522. 最长特殊序列 II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/)
+- 高精度运算
+  - [ ] [66. 加一](https://leetcode-cn.com/problems/plus-one/submissions/)
+  - [ ] [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
+  - [ ] [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)
+  - [ ] [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
+  - [ ] [306. 累加数](https://leetcode-cn.com/problems/additive-number/)
+- 字符串变换
+  - [ ] [482. 密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/)
+  - [ ] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+  - [ ] [68. 文本左右对齐](https://leetcode-cn.com/problems/text-justification/)
+- 字符串匹配
+  - [ ] [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+  - [ ] [686. 重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/)
+  - [ ] [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)
+  - [ ] [214. 最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/submissions/)
+- 中心拓展法
+  - [ ] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+  - [ ] [647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)
