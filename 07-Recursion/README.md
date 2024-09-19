@@ -1,11 +1,11 @@
 # 07 递归(Recursion)
 
 - 二叉树相关问题
-  - [ ] [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
-  - [ ] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
-  - [ ] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
-  - [ ] [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
-  - [ ] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+  - [x] [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
+  - [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+  - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+  - [x] [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
+  - [x] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
   - [ ] [572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
   - [ ] [965. 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)
   - [ ] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
