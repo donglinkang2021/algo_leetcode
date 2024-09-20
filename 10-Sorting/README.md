@@ -1,11 +1,11 @@
 # 10 排序(Sorting)
 
 - 冒泡排序
-  - [ ] [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
+  - [x] [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 - 选择排序
-  - [ ] [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+  - [x] [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - 插入排序
-  - [ ] [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+  - [x] [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 - 快速排序
   - [ ] [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 - 归并排序

@@ -1,7 +1,7 @@
 # 13 动态规划(Dynamic Programming)
 
 - 01背包问题
-  - [ ] [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
+  - [x] [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
   - [ ] [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)
   - [ ] [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
   - [ ] [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)

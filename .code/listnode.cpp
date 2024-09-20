@@ -36,3 +36,25 @@ ListNode *removeNthFromEnd(ListNode *head, int n) {
 	newHead = newHead->next;
 	return newHead;
 }
+
+ListNode* insertionSortList(ListNode* head) {
+	if (head == nullptr) return head;
+	ListNode *dummyHead = new ListNode(0, head);
+	ListNode *lastSorted = head;
+	ListNode *curr = head->next;
+	while (curr){
+		if (lastSorted->val <= curr->val){
+			lastSorted = lastSorted->next;
+		} else {
+			ListNode *prev = dummyHead;
+			while (prev->next->val <= curr->val) prev = prev->next;
+			// record next
+			lastSorted->next = curr->next;
+			// insert
+			curr->next = prev->next;
+			prev->next = curr;
+		}
+		curr = lastSorted->next;
+	}
+	return dummyHead->next;
+}

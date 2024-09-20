@@ -6,10 +6,9 @@
   - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
   - [x] [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
   - [x] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
-  - [ ] [572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
-  - [ ] [965. 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)
-  - [ ] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
-  - [ ] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)
+  - [x] [572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
+  - [x] [965. 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)
+  - [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 - 回溯相关问题
   - [ ] [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)
   - [ ] [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)

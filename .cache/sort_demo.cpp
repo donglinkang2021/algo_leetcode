@@ -1,15 +1,15 @@
-#include <bits/stdc++.h>
-using namespace std;
-typedef long long ll;
-const int INF = 0x3f3f3f3f;
-const int N = 1e3 + 10;
+#include <stdio.h>
 
 void printf_array(int a[], int n)
 {
-    for (int i = 0; i < n; i++)
-    {
-        printf("%d%c", a[i], i == n - 1 ? '\n' : ' ');
-    }
+    for (int i = 0; i < n; i++) printf("%d%c", a[i], i == n - 1 ? '\n' : ' ');
+}
+
+void swap(int &a, int &b)
+{
+    int t = a;
+    a = b;
+    b = t;
 }
 
 void quick_sort(int a[], int l, int r)
