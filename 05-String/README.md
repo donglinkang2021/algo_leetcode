@@ -3,9 +3,9 @@
 - 字符
   - [ ] [520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/)
 - 回文串的定义
-  - [ ] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+  - [x] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - 公共前缀
-  - [ ] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+  - [x] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 - 单词
   - [ ] [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)
   - [ ] [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
