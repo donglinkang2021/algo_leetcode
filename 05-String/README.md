@@ -1,7 +1,7 @@
 # 05 字符串(String)
 
 - 字符
-  - [ ] [520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/)
+  - [x] [520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/)
 - 回文串的定义
   - [x] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - 公共前缀
